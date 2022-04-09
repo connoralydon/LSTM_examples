@@ -7,6 +7,8 @@
 
 ## A description of any known compile or runtime errors, code limitations, or deviations from the assignment specification (if applicable): N/A
 
+time series and text generation need to be ran on google colab
+
 ## A list of all references used to complete the assignment, including peers (if applicable):
 multi class using [this dataset](https://djajafer.medium.com/multi-class-text-classification-with-keras-and-lstm-4c5525bef592) and [this guide](https://djajafer.medium.com/multi-class-text-classification-with-keras-and-lstm-4c5525bef592)
 
