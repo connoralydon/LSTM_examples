@@ -8,7 +8,14 @@
 ## A description of any known compile or runtime errors, code limitations, or deviations from the assignment specification (if applicable): N/A
 
 ## A list of all references used to complete the assignment, including peers (if applicable):
+multi class using [this dataset](https://djajafer.medium.com/multi-class-text-classification-with-keras-and-lstm-4c5525bef592) and [this guide](https://djajafer.medium.com/multi-class-text-classification-with-keras-and-lstm-4c5525bef592)
 
+time series using [this dataset](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/) and [this guide](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+
+text generation
+[word based text generation](https://machinelearningmastery.com/develop-word-based-neural-language-models-python-keras/)
+[letter based text generation](https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
+Tarek El-Hajjaoui
 
 
 
